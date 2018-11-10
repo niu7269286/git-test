@@ -8,6 +8,7 @@ public class Main {
         System.out.println("xixi");
 
         System.out.println(2);
+        System.out.println(555);
         System.out.println(1);
     }
 }
