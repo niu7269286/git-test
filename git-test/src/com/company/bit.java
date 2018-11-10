@@ -10,5 +10,6 @@ public class bit {
 
         System.out.println(666666666);
         System.out.println("xixi");
+        System.out.println(333);
     }
 }
